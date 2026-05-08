@@ -13,7 +13,6 @@ import FreeConsultancy from './pages/FreeConsultancy';
 function App() {
   return (
     <HelmetProvider>
-    // BrowserRouter wraps the whole app so it can track the URL
     <BrowserRouter>
       {/* If you have a Navbar, put it here so it shows on EVERY page */}
       
