@@ -54,7 +54,7 @@ function AllUniversities() {
         {/* --- PREMIUM HERO SECTION --- */}
         <section className="bg-gradient-to-br from-[#001529] to-[#1A36B4] py-20 px-4 md:px-10 relative overflow-hidden">
           {/* Subtle background pattern/overlay */}
-          <div className="absolute inset-0 opacity-10 bg-[url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+CjxjaXJjbGUgY3g9IjIiIGN5PSIyIiByPSIyIiBmaWxsPSIjZmZmIi8+Cjwvc3ZnPg==')]"></div>
+          <div className="absolute inset-0 opacity-50 bg-[radial-gradient(#ffffff_1px,transparent_1px)] [background-size:20px_20px]"></div>
           
           <div className="max-w-4xl mx-auto text-center relative z-10">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-extrabold text-white mb-6">

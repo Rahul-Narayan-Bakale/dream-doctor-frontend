@@ -20,7 +20,7 @@ function FreeConsultancy() {
         {/* --- HERO BANNER --- */}
         <section className="bg-blue-900 text-white pt-20 pb-32 px-4 md:px-10 relative overflow-hidden">
           {/* Subtle background dot pattern */}
-          <div className="absolute inset-0 opacity-10 bg-[radial-gradient(#ffffff_1px,transparent_1px)] [background-size:20px_20px]"></div>
+          <div className="absolute inset-0 opacity-50 bg-[radial-gradient(#ffffff_1px,transparent_1px)] [background-size:20px_20px]"></div>
           
           <div className="max-w-4xl mx-auto text-center relative z-10">
             <span className="inline-block py-1 px-4 rounded-full bg-blue-800 text-teal-300 font-bold tracking-wider uppercase text-xs mb-6 border border-blue-700">
