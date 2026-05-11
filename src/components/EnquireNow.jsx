@@ -51,7 +51,7 @@ function EnquireNow() {
   };
 
   return (
-    <section id="contact" className="bg-gray-100 py-16 px-4">
+    <section id="contact" className="bg-blue-50 py-16 px-4">
       <div className="max-w-xl mx-auto bg-white p-8 rounded-2xl shadow-xl">
         <h3 className="text-2xl font-bold text-center mb-6">Enquire Now</h3>
         

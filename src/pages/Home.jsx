@@ -12,6 +12,10 @@ import FAQ from '../components/FAQ';
 import AboutDDG from '../components/AboutDDG';
 import OurTeam from '../components/OurTeam';
 import SEO from '../components/SEO';
+import WhyChooseUs from '../components/WhyChooseUs';
+import AdmissionProcess from '../components/AdmissionProcess';
+import CostComparison from '../components/CostComparison';
+import Eligibility from '../components/Eligibility';
 
 function Home() {
   return (
@@ -27,6 +31,10 @@ function Home() {
       <RightTab />
       <Universities />
       <AboutDDG />
+      <WhyChooseUs />
+      <AdmissionProcess />
+      <CostComparison />
+      <Eligibility />
       <FAQ />
       <OurTeam />
       <EnquireNow />

@@ -34,7 +34,7 @@ function FAQ() {
   };
 
   return (
-    <section id="faq" className="bg-gray-50 py-16 px-4 md:px-8">
+    <section id="faq" className="bg-blue-50 py-16 px-4 md:px-8">
       <div className="max-w-4xl mx-auto flex flex-col items-center">
         
         {/* Section Headers */}

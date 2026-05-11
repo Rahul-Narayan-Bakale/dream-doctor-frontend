@@ -79,8 +79,8 @@ function Universities() {
 
   if (isLoading) {
     return (
-      <section className="py-16 bg-gray-50 flex justify-center items-center h-96">
-        <h2 className="text-2xl font-bold text-gray-500 animate-pulse">Loading Universities...</h2>
+      <section className="py-16 bg-blue-50 flex justify-center items-center h-96">
+        <h2 className="text-2xl font-bold text-blue-600 animate-pulse">Loading Universities...</h2>
       </section>
     );
   }
@@ -89,7 +89,7 @@ function Universities() {
   if (universities.length === 0) return null;
 
   return (
-    <section id="universities" className="py-16 bg-gray-50 overflow-hidden">
+    <section id="universities" className="py-16 bg-blue-50 overflow-hidden">
       <div className="max-w-7xl mx-auto px-4 md:px-10">
         <div className="mb-10 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-[#001529] mb-4">Top Russian Medical Universities</h2>
